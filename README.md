@@ -1,2 +1,2 @@
-# kai_java_2
+# kai_web_2
 a side project
